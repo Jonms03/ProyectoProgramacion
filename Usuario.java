@@ -20,7 +20,7 @@ public class Usuario {
                "Usuario: " + nombre_usuario + "\n" +
                "Rol: " + rol + "\n" +
                "Estado: " + estado_de_cuenta + "\n" +
-               "¿Tiene clases este mes?: " + (tiene_clases ? "Sí" : "No") + "\n" +
+               "¿Este mes tiene clases?: " + (tiene_clases ? "Sí" : "No") + "\n" +
                "-----------------------------\n";
     }
 }
